@@ -1,12 +1,11 @@
 # Libros
 
-## IOI 2025
+## Literatura
 
-![](img/ioi2025-short.png)
+<img src="img/con-permiso-de-hablar.jpeg" width="200"/>
 
-La *International Olympiad in Informatics* es la competencia de programación **más prestigiosa del mundo**.
+- **Autor:** María Vilalta
+- **Idioma:** Español
+- **Encuadernación:** pasta blanda
 
-- Idioma: asdsad
-- paginas: asdsad
-- formato: 23x89
-
+-----------
