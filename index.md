@@ -2,7 +2,7 @@
 
 ## IOI 2025
 
-![](ioi2025-short.png)
+![](img/ioi2025-short.png)
 
 La *International Olympiad in Informatics* es la competencia de programación **más prestigiosa del mundo**.
 
