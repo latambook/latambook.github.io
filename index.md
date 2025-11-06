@@ -1,8 +1,6 @@
-# LatamBOOK
+# Libros
 
-## Libros
-
-### IOI 2025
+## IOI 2025
 
 ![](ioi2025-short.png)
 
