@@ -46,7 +46,7 @@
     </div>
   </div>
 
-<!-- Catálogo (muestra) -->
+<!-- Catálogo | Muestra -->
 <section id="catalogo" class="grid">
   <article class="card">
     <img src="img/con-permiso-de-hablar.jpg" alt="Con permiso de hablar – portada">
