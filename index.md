@@ -33,7 +33,7 @@
 
   <div class="two">
     <div>
-      <h2>Sobre nosotros(ES)</h2>
+      <h2>Sobre nosotros (ES)</h2>
       <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. 
          Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de 
          <i>editing</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
