@@ -42,9 +42,39 @@
     <div>
       <h2>About us 🇺🇸</h2>
       <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
-      <p> We work in association with <b>La Mora Publishing House</b> (Rosario, 2010) to connect authors with their works..</p>
+      <p> We work in association with <b>La Mora Publishing House</b> (Rosario, 2010) to connect authors with their works.</p>
     </div>
   </div>
+
+<!-- Servicios Editoriales -->
+<section id="servicios-editoriales" class="grid">
+  <div>
+    <h2> Servicios editoriales (ES)</h2>
+    <p class="muted">Acompañamiento profesional en todas las etapas del proceso editorial.</p>
+    <ul>
+      <li><b>Corrección de estilo</b> — revisión lingüística y de coherencia.</li>
+      <li><b>Traducción</b> — español ↔ inglés u otros idiomas según proyecto.</li>
+      <li><b>Diseño gráfico</b> — creación visual de portada y elementos de identidad.</li>
+      <li><b>Diagramación</b> — maquetación del interior del libro (texto, imágenes, márgenes, tipografía, estructura).</li>
+      <li><b>Gestión de ISBN y código de barras</b> — tramitación ante la Cámara Argentina del Libro.</li>
+      <li><b>Publicación</b> — coordinación de impresión o colocación en plataformas digitales (e-book, print-on-demand, etc.).</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2> Editorial Services(EN)</h2>
+    <p class="muted">Professional support through every stage of the publishing process.</p>
+    <ul>
+      <li><b>Copy editing</b> — language and consistency review.</li>
+      <li><b>Translation</b> — Spanish ↔ English or other languages depending on the project.</li>
+      <li><b>Graphic design</b> — cover art and visual identity creation.</li>
+      <li><b>Layout and typesetting</b> — interior design of the book (text flow, images, margins, typography, structure).</li>
+      <li><b>ISBN & barcode management</b> — registration with the Argentine Book Chamber.</li>
+      <li><b>Publishing</b> — coordination of printing or upload to digital platforms (e-book, print-on-demand, etc.).</li>
+    </ul>
+  </div>
+</section>
+
 
 <!-- Catálogo | Muestra -->
 <section id="catalogo" class="grid">
