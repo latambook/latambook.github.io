@@ -37,12 +37,12 @@
       <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. 
          Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de 
          <i>editing</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
-      <p>Trabajamos en alianza con <b>Editorial La Mora</b> (Rosario, 2010) para presentar títulos en programas internacionales.</p>
+      <p>Trabajamos en alianza con <b>Editorial La Mora</b> (Rosario, 2010) para conectar autores con sus obras.</p>
     </div>
     <div>
       <h2>About us (EN)</h2>
       <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
-      <p>We partner with <b>Editorial La Mora</b> (Rosario, 2010) to participate in international publishing programs.</p>
+      <p> We work in association with <b>La Mora Publishing House</b> (Rosario, 2010) to connect authors with their works..</p>
     </div>
   </div>
 
