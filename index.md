@@ -24,7 +24,7 @@
 <header>
   <div class="wrap">
     <h2>📚LATAMBOOK🌐</h2>
-    <p class="tagline">|Servicios editoriales & Distribuidora para Latinoamérica|</p>
+    <p class="tagline">| Servicios editoriales | Distribuidora para Latinoamérica |</p>
     <p class="meta">📍 Buenos Aires / Rosario – Argentina · ✉️ ventas@latambook.com · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
   </div>
 </header>
