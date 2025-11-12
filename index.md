@@ -25,7 +25,7 @@
   <div class="wrap">
     <h1>LATAMBOOK</h1>
     <p class="tagline">Distribuidora editorial para Latinoamérica · Representación y servicios editoriales</p>
-    <p class="meta">📍 Rosario / Buenos Aires – Argentina · ✉️ baires.tangostudio@gmail.com · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
+    <p class="meta">📍 Rosario / Buenos Aires – Argentina · ✉️ ventaso@latambook.com · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
   </div>
 </header>
 
