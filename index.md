@@ -46,12 +46,11 @@
     </div>
   </div>
 
-  <h2 style="margin-top:28px;">Catálogo (muestra)</h2>
-  <div class="grid">
-
-<!-- TARJETA 1 -->
-<div class="card">
-<img src="img/con-permiso-de-hablar.jpg" alt="Con permiso de hablar - portada">
-<h3>Con permiso de hablar</h3>
-<p class="muted">Autor: María Vilalta · Idioma: Español · Formato: Rústica</p>
-</div
+<!-- Catálogo (muestra) -->
+<section id="catalogo" class="grid">
+  <article class="card">
+    <img src="img/con-permiso-de-hablar.jpg" alt="Con permiso de hablar – portada">
+    <h3>Con permiso de hablar</h3>
+    <p class="muted">Autora: María Vilalta · Idioma: Español · Formato: Rústica</p>
+  </article>
+</section>
