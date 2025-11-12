@@ -46,12 +46,15 @@
     </div>
   </div>
 
+<!-- Línea divisoria entre "About us" y "Servicios editoriales" -->
+<hr class="divider">
+
 <!-- Servicios Editoriales -->
 <section id="servicios-editoriales" class="grid">
   <!-- Columna Español -->
   <div>
     <h2>Servicios editoriales</h2>
-    <p class="muted">Acompañamiento profesional en todas las etapas del proceso editorial.</p>
+    <p class="muted">From our publishing house La Mora, we manage all stages of the editorial and production process.</p>
     <ul>
       <li><b>Corrección de estilo</b> — revisión lingüística y de coherencia.</li>
       <li><b>Traducción</b> — español ↔ inglés u otros idiomas según proyecto.</li>
