@@ -48,8 +48,9 @@
 
 <!-- Servicios Editoriales -->
 <section id="servicios-editoriales" class="grid">
+  <!-- Columna Español -->
   <div>
-    <h2> Servicios editoriales</h2>
+    <h2>Servicios editoriales</h2>
     <p class="muted">Acompañamiento profesional en todas las etapas del proceso editorial.</p>
     <ul>
       <li><b>Corrección de estilo</b> — revisión lingüística y de coherencia.</li>
@@ -61,8 +62,9 @@
     </ul>
   </div>
 
+  <!-- Columna Inglés -->
   <div>
-    <h2> Editorial Services</h2>
+    <h2>Editorial Services</h2>
     <p class="muted">Professional support through every stage of the publishing process.</p>
     <ul>
       <li><b>Copy editing</b> — language and consistency review.</li>
