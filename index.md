@@ -20,7 +20,7 @@
   a { color:#0f5cc0; text-decoration: none; }
   a:hover { text-decoration: underline; }
 
-/* Sección Servicios editoriales / Editorial Services */
+/* Sección Servicios editoriales / Complete editorial process */
 .services-grid {
   max-width: 1100px;        /* ancho cómodo en pantallas grandes */
   margin: 3rem auto;        /* centrado con respiro vertical */
@@ -66,8 +66,8 @@
       <p>Desde nuestro sector productivo <b>Editorial La Mora</b> (Rosario, 2010) conectamos autores con sus obras</p>
     </div>
     <div>
-      <h2>About us </h2>
-      <p><b>LATAMBOOK(EN)</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
+      <h2>About us(EN)</h2>
+      <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
       <p> From our production sector, <b>La Mora Editions</b> (Rosario, 2010), we connect authors with their works.</p>
     </div>
   </div>
@@ -94,7 +94,7 @@
   </div>
 
   <div>
-    <h2>👷‍♀️Editorial Services🏗️</h2>
+    <h2>🏗️Complete editorial process</h2>
     <p class="muted">
       Professional support through every stage of the publishing process.
     </p>
