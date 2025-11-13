@@ -51,7 +51,9 @@
   <div class="wrap">
     <h2>📚LATAMBOOK🌐</h2>
     <p class="tagline">| Editorial Services | Distributor for Latin America |</p>
-    <p class="meta">📍 Buenos Aires / Rosario – Argentina · ✉️ ventas@latambook.com · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
+    <p class="meta">📍 Buenos Aires / Rosario – Argentina · 
+📞 <a href="https://wa.me/5491151011262">+54 9 11 5101 1262</a> · 
+✉️ ventas@latambook.com · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
   </div>
 </header>
 
