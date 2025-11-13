@@ -19,6 +19,32 @@
   .footer { margin: 40px 0 60px; color:#6b7280; font-size:14px; }
   a { color:#0f5cc0; text-decoration: none; }
   a:hover { text-decoration: underline; }
+
+/* Sección Servicios editoriales / Editorial Services */
+.services-grid {
+  max-width: 1100px;        /* ancho cómodo en pantallas grandes */
+  margin: 3rem auto;        /* centrado con respiro vertical */
+  display: grid;
+  grid-template-columns: repeat(2, minmax(320px, 1fr));
+  column-gap: 3rem;
+  row-gap: 2rem;
+}
+
+.services-grid h2 {
+  margin-bottom: 0.25rem;
+}
+
+.services-grid .muted {
+  margin-bottom: 1rem;
+}
+
+/* Versión móvil: una columna debajo de la otra */
+@media (max-width: 768px) {
+  .services-grid {
+    grid-template-columns: 1fr;
+    padding: 0 1.25rem;     /* un poquito de margen lateral en celular */
+  }
+}
 </style>
 
 <header>
@@ -50,11 +76,13 @@
 <hr class="divider">
 
 <!-- Servicios Editoriales -->
-<section id="servicios-editoriales" class="grid">
-  <!-- Columna Español -->
+<section id="servicios-editoriales" class="services-grid">
   <div>
     <h2>Servicios editoriales</h2>
-    <p class="muted">From our publishing house La Mora, we manage all stages of the editorial and production process.</p>
+    <p class="muted">
+      Desde nuestra casa editorial La Mora gestionamos todas las etapas del proceso
+      editorial y productivo.
+    </p>
     <ul>
       <li><b>Corrección de estilo</b> — revisión lingüística y de coherencia.</li>
       <li><b>Traducción</b> — español ↔ inglés u otros idiomas según proyecto.</li>
@@ -65,21 +93,23 @@
     </ul>
   </div>
 
-  <!-- Columna Inglés -->
   <div>
     <h2>Editorial Services</h2>
-    <p class="muted">Professional support through every stage of the publishing process.</p>
+    <p class="muted">
+      Professional support through every stage of the publishing process.
+    </p>
     <ul>
       <li><b>Copy editing</b> — language and consistency review.</li>
       <li><b>Translation</b> — Spanish ↔ English or other languages depending on the project.</li>
       <li><b>Graphic design</b> — cover art and visual identity creation.</li>
       <li><b>Layout and typesetting</b> — interior design of the book (text flow, images, margins, typography, structure).</li>
-      <li><b>ISBN & barcode management</b> — registration with the Argentine Book Chamber.</li>
+      <li><b>ISBN &amp; barcode management</b> — registration with the Argentine Book Chamber.</li>
       <li><b>Publishing</b> — coordination of printing or upload to digital platforms (e-book, print-on-demand, etc.).</li>
     </ul>
   </div>
 </section>
 
+<h2>📚Editorial Production Samples💡</h2>
 
 <!-- Catálogo | Muestra -->
 <section id="catalogo" class="grid">
@@ -88,28 +118,28 @@
   <article class="card">
     <img src="img/con-permiso-de-hablar.jpeg" alt="Con permiso de hablar – portada" loading="lazy">
     <h3>Con permiso de hablar</h3>
-    <p class="muted">Autora: María Vilalta · Idioma: Español · Formato: Rústica</p>
+    <p class="muted">Autora: María Vilalta · Sello: La Mora · Formato: Rústica</p>
   </article>
 
    <!-- MANOS. Antologia de Poemas -->
   <article class="card">
     <img src="img/IMG_9372.jpeg" alt="Título pendiente – portada" loading="lazy">
-    <h3>Título pendiente</h3>
-    <p class="muted">Autor/a: (completar) · Idioma: Español · Formato: Rústica</p>
+    <h3>MANOS. Antologia de Poemas</h3>
+    <p class="muted">Autor/a: Miguel Catala · Sello: La Mora · Formato: Rústica</p>
   </article>
 
   <!-- Rumbo al trabajo feliz -->
   <article class="card">
     <img src="img/IMG_9371.jpeg" alt="Rumbo al trabajo feliz – portada" loading="lazy">
     <h3>Rumbo al trabajo feliz</h3>
-    <p class="muted">Autora: Carolina Casiello · Idioma: Español · Formato: Rústica</p>
+    <p class="muted">Autora: Carolina Casiello · Sello: SurAmerica · Formato: Rústica</p>
   </article>
 
   <!-- Escrituras de la politica -->
   <article class="card">
     <img src="img/IMG_9370.jpeg" alt="Título pendiente – portada" loading="lazy">
-    <h3>Título pendiente</h3>
-    <p class="muted">Autor/a: (completar) · Idioma: Español · Formato: Rústica</p>
+    <h3>Escrituras de la politica</h3>
+    <p class="muted">Autor/a: Roberto Retamoso · Sello: SurAmerica · Formato: Rústica</p>
   </article>
 
 </section>
