@@ -68,9 +68,8 @@
     <div>
       <h2>About us(EN)</h2>
       <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
-      <p> From our production sector, <b>La Mora Editions</b> (Rosario, 2010), we connect authors with their works.</p>
+      <p> Through our publishing imprints <b>La Mora</b> (literary–poetic, founded in 2010) and <b>SurAmerica</b> (human sciences, founded in 2010)— we produce books in both print and digital formats.</p>
     </div>
-  </div>
 
 <!-- Línea divisoria entre "About us" y "Servicios editoriales" -->
 <hr class="divider">
