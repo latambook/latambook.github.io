@@ -84,7 +84,7 @@
 <!-- Catálogo | Muestra -->
 <section id="catalogo" class="grid">
   <article class="card">
-    <img src="img/con-permiso-de-hablar.jpg" alt="Con permiso de hablar – portada">
+    <img src="img/con-permiso-de-hablar.jepg" alt="Con permiso de hablar – portada">
     <h3>Con permiso de hablar</h3>
     <p class="muted">Autora: María Vilalta · Idioma: Español · Formato: Rústica</p>
   </article>
