@@ -52,7 +52,7 @@
     <h2>| Editorial Services | Distributor for Latin America |</h2>
     <p class="tagline">📍 Buenos Aires / Rosario – Argentina · 
 📞 <a href="https://wa.me/5491151011262">+54 9 11 5101 1262</a> · 
-✉️ ventas@latambook.com · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
+✉️ <a href="mailto:ventas@latambook.com">ventas@latambook.com</a> · IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a></p>
   </div>
 </header>
 
