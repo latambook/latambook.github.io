@@ -83,9 +83,33 @@
 
 <!-- Catálogo | Muestra -->
 <section id="catalogo" class="grid">
+
+  <!-- Con permiso de hablar -->
   <article class="card">
-    <img src="img/con-permiso-de-hablar.jpeg" alt="Con permiso de hablar – portada">
+    <img src="img/con-permiso-de-hablar.jpeg" alt="Con permiso de hablar – portada" loading="lazy">
     <h3>Con permiso de hablar</h3>
     <p class="muted">Autora: María Vilalta · Idioma: Español · Formato: Rústica</p>
   </article>
+
+  <!-- Rumbo al trabajo feliz -->
+  <article class="card">
+    <img src="img/IMG_9371.jpeg" alt="Rumbo al trabajo feliz – portada" loading="lazy">
+    <h3>Rumbo al trabajo feliz</h3>
+    <p class="muted">Autora: Carolina Casiello · Idioma: Español · Formato: Rústica</p>
+  </article>
+
+  <!-- Portada 2 -->
+  <article class="card">
+    <img src="img/IMG_9370.jpeg" alt="Título pendiente – portada" loading="lazy">
+    <h3>Título pendiente</h3>
+    <p class="muted">Autor/a: (completar) · Idioma: Español · Formato: Rústica</p>
+  </article>
+
+  <!-- Portada 3 -->
+  <article class="card">
+    <img src="img/IMG_9372.jpeg" alt="Título pendiente – portada" loading="lazy">
+    <h3>Título pendiente</h3>
+    <p class="muted">Autor/a: (completar) · Idioma: Español · Formato: Rústica</p>
+  </article>
+
 </section>
