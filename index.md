@@ -503,7 +503,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
 
     <!-- PHOTO 1 -->
     <div class="fil-2024">
-      <img src="img/fil2024.jpg" alt="International Book Fair – Latambook">
+      <img src="img/FIL2024.jpg" alt="International Book Fair – Latambook">
       <div class="fair-card-content">
         <h3>Guadalajara International Book Fair</h3>
         <p>Meeting with Universidad de Guadalajara – Institutional Stand</p>
