@@ -204,7 +204,7 @@
     </div>
 
     <div>
-      <h2>🇦🇷Sobre nosotros(ES)</h2>
+      <h2>🇦🇷Sobre nosotros</h2>
       <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de <i>edición</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
       <p>Desde 2010 brindamos servicios editoriales a través de nuestros sellos: <b>La Mora</b> — orientado a poesía y literatura — y <b>SurAmerica ediciones</b> — especializado en Ciencias Humanas.</p>
     </div>
@@ -222,20 +222,22 @@
         <li><b>Graphic design</b> — cover art and visual identity creation.</li>
         <li><b>Layout and typesetting</b> — interior book design.</li>
         <li><b>ISBN &amp; barcode management</b> — registered with the Argentine Book Chamber.</li>
-        <li><b>Publishing</b> — print editions and/or digital platforms.</li>
+        <li><b>Publishing</b> — print edition, digital version, print on demand.</li>
+        <li><b>Commercialization</b> - representation and distribution</li>
       </ul>
     </div>
 
     <div>
       <h2>👷‍♀️Servicio editorial integral</h2>
-      <p class="muted">Desde nuestra casa editorial La Mora gestionamos todas las etapas del proceso editorial y productivo.</p>
+      <p class="muted">Profesionalismo en todas las etapas de producción editorial.</p>
       <ul>
-        <li><b>Corrección de estilo</b> — revisión lingüística y de coherencia.</li>
+        <li><b>Corrección de estilo</b> — revisión lingüística, coherencia y sentido.</li>
         <li><b>Traducción</b> — español ↔ inglés u otros idiomas.</li>
         <li><b>Diseño gráfico</b> — diseño de portada e identidad visual.</li>
         <li><b>Diagramación</b> — maquetación del interior del libro.</li>
         <li><b>Gestión de ISBN y código de barras</b> — tramitación en la Cámara Argentina del Libro.</li>
-        <li><b>Publicación</b> — impresión y/o plataformas digitales.</li>
+        <li><b>Publicación</b> — impresión, versión digital, impresion bajo demanda</li>
+        <li><b>Comercialización</b> - representación y distribución</li>
       </ul>
     </div>
   </section>
@@ -353,7 +355,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/neuroaprendizaje%20infantil.png" alt="Neuroaprendizaje Infantil logo" class="publisher-logo">
     <h3>Neuroaprendizaje Infantil</h3>
-    <p class="muted">Childhood · Neurodevelopment</p>
+    <p class="muted">Neurodiversity · Neurodevelopment</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Neuroaprendizaje%20Infantil"
        class="btn">Request price list</a>
   </article>
@@ -362,7 +364,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/amorrortu.jpeg" alt="Amorrortu logo" class="publisher-logo">
     <h3>Amorrortu</h3>
-    <p class="muted">Psychoanalysis · Social sciences</p>
+    <p class="muted">Psychology · Social sciences</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Amorrortu"
        class="btn">Request price list</a>
   </article>
@@ -371,7 +373,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/tres%20olas.png" alt="Tres Olas logo" class="publisher-logo">
     <h3>Tres Olas</h3>
-    <p class="muted">Education · Educational psychology</p>
+    <p class="muted">Education · Psychology</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Tres%20Olas"
        class="btn">Request price list</a>
   </article>
@@ -389,7 +391,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/journal-logo.png" alt="Journal logo" class="publisher-logo">
     <h3>Journal</h3>
-    <p class="muted">Psychology · Neurosciences</p>
+    <p class="muted"> Medicine · Neurosciences</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Journal"
        class="btn">Request price list</a>
   </article>
@@ -398,7 +400,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/el%20ateneo.png" alt="El Ateneo logo" class="publisher-logo">
     <h3>El Ateneo</h3>
-    <p class="muted">General · Literature</p>
+    <p class="muted">Medicine · Health sciences</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20El%20Ateneo"
        class="btn">Request price list</a>
   </article>
@@ -407,7 +409,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/bonum.webp" alt="Bonum logo" class="publisher-logo">
     <h3>Bonum</h3>
-    <p class="muted">Education · Teacher training</p>
+    <p class="muted">Education · Neurodiversity</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Bonum"
        class="btn">Request price list</a>
   </article>
@@ -416,7 +418,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/siglo%20xxi%20edit.jpeg" alt="Siglo XXI logo" class="publisher-logo">
     <h3>Siglo XXI</h3>
-    <p class="muted">Psychology</p>
+    <p class="muted">Psychology · Education</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Siglo%20XXI"
        class="btn">Request price list</a>
   </article>
@@ -452,7 +454,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <article class="card">
     <img src="img/alfaomega.png" alt="Alfaomega logo" class="publisher-logo">
     <h3>Alfaomega</h3>
-    <p class="muted">Technology · Economics</p>
+    <p class="muted">Technology · Economics · Informatics</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Alfaomega"
        class="btn">Request price list</a>
   </article>
