@@ -292,20 +292,30 @@
 <div class="distribution-intro">
   <div>
     <p>
-      <b>EN</b> — LATAMBOOK operates as a regional distributor for academic, professional and scientific publishers.
-      We provide sales, logistics, invoicing and delivery solutions for clients across Latin America, including
-      universities, clinics, educational institutions and specialized bookstores. Our catalogue includes psychology,
-      neuroscience, education, medicine, social sciences, pediatrics and technical fields.
+      <b>EN</b> — LATAMBOOK is a distributor of academic, professional, and scientific books in Spanish.
+Our catalogue includes medicine, nursing, psychology, neuroscience, neurodevelopment, education, technology, economics, social sciences, and humanities.
+We provide <strong>commercial management, specialized logistics, and international DHL shipping worldwide</strong> ✈️
     </p>
   </div>
   <div>
     <p>
-      <b>ES</b> — LATAMBOOK funciona como distribuidora regional de libros académicos, profesionales y científicos.
-      Brindamos gestión comercial, logística, facturación y envíos para clientes de toda Latinoamérica: universidades,
-      clínicas, instituciones educativas y librerías especializadas. Distribuimos catálogos de psicología, neurociencias,
-      educación, medicina, ciencias sociales, pediatría y áreas técnicas.
+      <b>ES</b> — LATAMBOOK LATAMBOOK es una distribuidora de libros académicos, profesionales y científicos en español.
+Nuestro catálogo abarca medicina, enfermería, psicología, neurociencias, neurodesarrollo, educación, tecnología, ciencias económicas, ciencias sociales y humanidades.
+Ofrecemos <strong>gestión comercial, logística especializada y envíos internacionales vía DHL</strong> a todo el mundo ✈️
     </p>
   </div>
+</div>
+<!-- ========================= -->
+<!--   Separador + Título Sellos en Distribución -->
+<!-- ========================= -->
+
+<hr style="border:0; border-top:1px solid #e2e2e2; margin:40px 0 24px;">
+
+<div class="wrap" style="text-align:center; margin-bottom:32px;">
+  <h2 style="margin-bottom:4px;">📚 Sellos en distribución</h2>
+  <p class="muted" style="font-size:15px; margin-top:0;">
+    📚 Publishing Houses in Distribution
+  </p>
 </div>
 
 <!-- Grid de editoriales en distribución -->
