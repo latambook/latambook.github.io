@@ -1,4 +1,18 @@
 <style>
+/* Oculta el título "LATAMBOOK" que GitHub Pages inserta automáticamente */
+.site-title,
+.site-name,
+header h1 {
+  display: none !important;
+}
+
+/* …y después sigue el resto de tus estilos… */
+:root { --max: 980px; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  ...
+}
+</style>
   .site-title, .site-name, header h1 {
     display: none !important;
   }
@@ -67,6 +81,12 @@
   </div>
 </header>
 
+<!-- ⭐⭐ AQUI PEGÁS TU LOGO ⭐⭐ -->
+<div class="wrap" style="padding-top: 20px; padding-bottom: 0;">
+  <img src="img/latambook-logo.png"
+       alt="LatamBook Logo"
+       style="height: 70px;">
+</div>
 
 <div class="wrap">
 
