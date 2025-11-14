@@ -205,19 +205,19 @@
     <article class="card">
       <img src="img/con-permiso-de-hablar.jpeg" alt="Con permiso de hablar – portada" loading="lazy">
       <h3>Con permiso de hablar</h3>
-      <p class="muted">Autora: María Vilalta · Sello: La Mora · Formato: Rústica</p>
+      <p class="muted">Autora: María Vilalta · Sello: La Mora · ISBN: 9789872445584</p>
     </article>
 
     <article class="card">
       <img src="img/IMG_9372.jpeg" alt="MANOS – portada" loading="lazy">
       <h3>MANOS. Antología de Poemas</h3>
-      <p class="muted">Autor: Miguel Catalá · Sello: La Mora · Formato: Rústica</p>
+      <p class="muted">Autor: Miguel Catalá · Sello: La Mora · ISBN: 9789872593742</p>
     </article>
 
     <article class="card">
       <img src="img/IMG_9371.jpeg" alt="Rumbo al trabajo feliz – portada" loading="lazy">
       <h3>Rumbo al trabajo feliz</h3>
-      <p class="muted">Autora: Carolina Casiello · Sello: SurAmerica · Formato: Rústica</p>
+      <p class="muted">Autora: Carolina Casiello · Sello: SurAmerica · ISBN: 9789872593933</p>
     </article>
 
     <article class="card">
