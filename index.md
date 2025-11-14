@@ -69,7 +69,7 @@
       <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. 
          Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de 
          <i>edición</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
-      <p>Desde nuestro sector productivo <b>Editorial La Mora</b> (Rosario, 2010) conectamos autores con sus obras</p>
+      <p>Desde el 2010 brindamos servicios editoriales gestionando el proceso productivo completo desde nuestros sello literaerio <b>La Mora</b> y especialista en ciencias humanas <b>SurAmerica ediciones</b> </p>
     </div>
   </div>  <!-- 👈 Cierre del .two, ESTE ES EL QUE FALTABA -->
 
@@ -78,6 +78,20 @@
 
 <!-- Servicios Editoriales -->
 <section id="servicios-editoriales" class="services-grid">
+  <div>
+    <h2>🏗️Complete editorial process</h2>
+    <p class="muted">
+      Professional support through every stage of the publishing process.
+    </p>
+    <ul>
+      <li><b>Copy editing</b> — language and consistency review.</li>
+      <li><b>Translation</b> — Spanish ↔ English or other languages depending on the project.</li>
+      <li><b>Graphic design</b> — cover art and visual identity creation.</li>
+      <li><b>Layout and typesetting</b> — interior design of the book (text flow, images, margins, typography, structure).</li>
+      <li><b>ISBN &amp; barcode management</b> — registration with the Argentine Book Chamber.</li>
+      <li><b>Publishing</b> — coordination of printing or upload to digital platforms (e-book, print-on-demand, etc.).</li>
+    </ul>
+  </div>
   <div>
     <h2>Servicios editoriales</h2>
     <p class="muted">
@@ -91,21 +105,6 @@
       <li><b>Diagramación</b> — maquetación del interior del libro (texto, imágenes, márgenes, tipografía, estructura).</li>
       <li><b>Gestión de ISBN y código de barras</b> — tramitación ante la Cámara Argentina del Libro.</li>
       <li><b>Publicación</b> — coordinación de impresión o colocación en plataformas digitales (e-book, print-on-demand, etc.).</li>
-    </ul>
-  </div>
-
-  <div>
-    <h2>🏗️Complete editorial process</h2>
-    <p class="muted">
-      Professional support through every stage of the publishing process.
-    </p>
-    <ul>
-      <li><b>Copy editing</b> — language and consistency review.</li>
-      <li><b>Translation</b> — Spanish ↔ English or other languages depending on the project.</li>
-      <li><b>Graphic design</b> — cover art and visual identity creation.</li>
-      <li><b>Layout and typesetting</b> — interior design of the book (text flow, images, margins, typography, structure).</li>
-      <li><b>ISBN &amp; barcode management</b> — registration with the Argentine Book Chamber.</li>
-      <li><b>Publishing</b> — coordination of printing or upload to digital platforms (e-book, print-on-demand, etc.).</li>
     </ul>
   </div>
 </section>
