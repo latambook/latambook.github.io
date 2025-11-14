@@ -223,7 +223,7 @@
     <article class="card">
       <img src="img/IMG_9370.jpeg" alt="Escrituras de la política – portada" loading="lazy">
       <h3>Escrituras de la política</h3>
-      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Roberto Retamoso · Formato: Rústica</p>
+      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Roberto Retamoso · ISBN: 9789872593919</p>
     </article>
   </section>
 
