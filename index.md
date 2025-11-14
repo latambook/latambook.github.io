@@ -296,9 +296,10 @@
 
 </div>
 <!-- DISTRIBUCIÓN ACADÉMICA -->
-<h2>📦 Academic Book Distribution</h2>
-<p class="muted">
+<h2>📚 Academic Book Distribution</h2>
+
   Specialized distribution of academic, technical and professional books (print & e-books).
+  <p class="muted">
 </p>
 
 <div class="distribution-intro">
@@ -306,14 +307,14 @@
     <p>
       <b>EN</b> — LATAMBOOK is a distributor of academic, professional, and scientific books in Spanish.
 Our catalogue includes medicine, nursing, psychology, neuroscience, neurodevelopment, education, technology, economics, social sciences, and humanities.
-We provide <strong>commercial management, specialized logistics, and international DHL shipping worldwide</strong> ✈️
+We provide <strong>👩🏻‍💻commercial management, 📦specialized logistics, and ✈️international DHL shipping worldwide</strong>
     </p>
   </div>
   <div>
     <p>
-      <b>ES</b> — LATAMBOOK LATAMBOOK es una distribuidora de libros académicos, profesionales y científicos en español.
+      <b>ES</b> — LATAMBOOK es una distribuidora de libros académicos, profesionales y científicos en español.
 Nuestro catálogo abarca medicina, enfermería, psicología, neurociencias, neurodesarrollo, educación, tecnología, ciencias económicas, ciencias sociales y humanidades.
-Ofrecemos <strong>gestión comercial, logística especializada y envíos internacionales vía DHL</strong> a todo el mundo ✈️
+Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializada y ✈️envíos internacionales vía DHL</strong> a todo el mundo 
     </p>
   </div>
 </div>
