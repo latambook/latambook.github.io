@@ -556,7 +556,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
 
   <p style="margin:6px 0; font-size:15px; color:#444;">
     📚 <b>Argentine Book Chamber Partner – Nº 2100</b>  
-    <b>All rights reserved®️</b> 
+    <b>|LATAMBOOK |La Mora |SurAmerica - All rights reserved®️</b> 
   </p>
 
 </section>
