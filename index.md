@@ -1,4 +1,11 @@
 <style>
+/* Reduce fair photos size */
+.fair-card img {
+  width: 100%;
+  height: 160px;   /* antes 240px */
+  object-fit: cover;
+  border-bottom: 1px solid #e5e7eb;
+}
 
   /* Intro de distribución EN / ES en dos columnas */
 .distribution-intro {
@@ -288,7 +295,7 @@
     </article>
 
     <article class="card">
-      <img src="img/Ihistoria-oral.jpeg" alt="Historia oral – portada" loading="lazy">
+      <img src="img/historia-oral.jpeg" alt="Historia oral – portada" loading="lazy">
       <h3>Historia Oral</h3>
       <p class="muted">Sello: <b>SurAmerica</b> · Autor: Laura benadiba · ISBN: 9789872593902</p>
     </article>
@@ -524,4 +531,34 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   </div>
 
 </section>
+
+<!-- Divider -->
+<hr style="border:0; border-top:1px solid #e2e2e2; margin:50px 0 32px;">
+
+<!-- Contact Block -->
+<section class="wrap" style="margin-bottom: 60px;">
+
+  <h2 style="font-size:22px; margin-bottom:10px;">📞 Contact & Institutional Information</h2>
+
+  <p style="margin:6px 0; font-size:15px;">
+    📍 <b> Buenos Aires</b>, Argentina  
+    <br>📍 <b>Rosario</b>, Argentina
+  </p>
+
+  <p style="margin:6px 0; font-size:15px;">
+    📞 WhatsApp: <a href="https://wa.me/5491151011262">+54 9 11 5101 1262</a><br>
+    ✉️ Email: <a href="mailto:ventas@latambook.com">ventas@latambook.com</a>
+  </p>
+
+  <p style="margin:6px 0; font-size:15px;">
+    🧾 <b>CUIT:</b> 27-34579681-5  
+  </p>
+
+  <p style="margin:6px 0; font-size:15px; color:#444;">
+    📚 <b>Argentine Book Chamber Partner – Nº 2100</b>  
+    <b>All rights reserved®️</b> 
+  </p>
+
+</section>
+
 
