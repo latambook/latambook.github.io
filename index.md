@@ -2,7 +2,7 @@
   :root { --max: 980px; }
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; 
          line-height: 1.55; margin: 0; color:#0a0a0a; }
-  header { padding: 48px 16px 24px; background:#f5f7fb; border-bottom:1px solid #e6e9f2; }
+  header { padding: 16px 16px 24px; background:#f5f7fb; border-bottom:1px solid #e6e9f2;}
   .wrap { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
   h1 { margin: 0 0 8px; font-size: 32px; letter-spacing:.3px; }
   .tagline { color:#5b667a; margin:0 0 8px; }
