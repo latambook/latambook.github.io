@@ -193,9 +193,7 @@
   <div class="wrap">
     <h2>📚 Editorial Services | Distributor for Latin America 🌐</h2>
     <p class="tagline">
-      📞 <a href="https://wa.me/5491151011262">+54 9 11 5101 1262</a> · 
       ✉️ <a href="mailto:ventas@latambook.com">ventas@latambook.com</a> · 
-      IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a>
            📍 <b>Buenos Aires · Rosario | Argentina </b>
     </p>
   </div>
@@ -206,8 +204,12 @@
   <div class="two">
     <div>
       <h2>🇺🇸About us</h2>
-      <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
-      <p>Through our publishing imprints <b>La Mora</b> (literary–poetic) and <b>SurAmerica</b> (specialized in human and social sciences), both founded in 2010, we produce books in both print and digital formats.</p>
+      <p><b>LATAMBOOK</b> LATAMBOOK has been publishing print and digital books since 2010. Our editorial work is organized into three imprints:
+<b>La Mora</b> — focused on poetry and literary works.
+<b>urAmerica</b> — specialized in the human and social sciences.
+<b>Latambook</b>— dedicated to technical, professional and healthcare publications.
+
+We also operate a regional distribution structure, representing a broad catalogue of academic and professional publishers across Latin America. We provide commercial representation, institutional promotion, logistics and supply solutions for universities, bookstores, libraries and organizations throughout the region.
     </div>
 
     <div>
@@ -547,6 +549,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
 
   <p style="margin:6px 0; font-size:15px;">
     📞 WhatsApp: <a href="https://wa.me/5491151011262">+54 9 11 5101 1262</a><br>
+     IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a>
     ✉️ Email: <a href="mailto:ventas@latambook.com">ventas@latambook.com</a>
   </p>
 
@@ -556,7 +559,7 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
 
   <p style="margin:6px 0; font-size:15px; color:#444;">
     📚 <b>Argentine Book Chamber Partner – Nº 2100</b>  
-    <b>|LATAMBOOK |La Mora |SurAmerica - All rights reserved®️</b> 
+    <b>|LATAMBOOK|La Mora|SurAmerica| All rights reserved®️</b> 
   </p>
 
 </section>
