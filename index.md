@@ -179,7 +179,7 @@
 <div class="wrap" style="padding-top: 24px; padding-bottom: 8px;">
   <img src="img/latambook-logo.png"
        alt="LatamBook Logo"
-       style="height: 70px;">
+       style="height: 110px;">
 </div>
 
 <header>
