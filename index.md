@@ -76,7 +76,7 @@
       <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. 
          Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de 
          <i>edición</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
-      <p>Desde el 2010 brindamos servicios editoriales gestionando el proceso productivo completo desde nuestros sello literaerio <b>La Mora</b> y especialista en ciencias humanas <b>SurAmerica ediciones</b> </p>
+      <p>Desde 2010 brindamos servicios editoriales a través de nuestros sellos: <b>La Mora</b> -orientado a la Poesia y Literatura- y <b>SurAmerica ediciones</b> -especializado en Ciencias Humanas-.  y especialista en ciencias humanas.</p>
     </div>
   </div>  <!-- 👈 Cierre del .two, ESTE ES EL QUE FALTABA -->
 
