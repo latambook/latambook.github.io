@@ -186,7 +186,8 @@
   <div class="wrap">
     <h2>📚 Editorial Services | Distributor for Latin America 🌐</h2>
     <p class="tagline">
-      📍 Buenos Aires / Rosario – Argentina · 
+      📍 Tucuman 2176, <b>Buenos Aires,</b> Argentina
+      📍 Pasaje Gould 860, <b>Rosario</b>, Argentina · 
       📞 <a href="https://wa.me/5491151011262">+54 9 11 5101 1262</a> · 
       ✉️ <a href="mailto:ventas@latambook.com">ventas@latambook.com</a> · 
       IG: <a href="https://instagram.com/latambook" target="_blank">@latambook</a>
@@ -274,7 +275,7 @@
     </article>
 
      <article class="card">
-      <img src="img/IMG_9369.jpeg alt="Manual de Etica – portada" loading="lazy">
+      <img src="img/IMG_9369.jpeg" alt="Manual de Etica – portada" loading="lazy">
       <h3>Manual de Etica para corredores inmobiliarios</h3>
       <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
     </article>
@@ -284,108 +285,174 @@
 </div>
 <!-- DISTRIBUCIÓN ACADÉMICA -->
 <h2>📦 Academic Book Distribution</h2>
-<p class="muted">Specialized distribution of academic, technical and professional books (print & e-books).</p>
-
-<p>
-  LATAMBOOK operates as a regional distributor for academic, professional and scientific publishers.  
-  We provide sales, logistics, invoicing and delivery solutions for clients across Latin America.
-  Our catalogue includes psychology, neuroscience, education, medicine, social sciences, pediatrics and technical fields.
+<p class="muted">
+  Specialized distribution of academic, technical and professional books (print & e-books).
 </p>
 
-<p>
-  LATAMBOOK funciona como distribuidora regional de libros académicos, profesionales y científicos.  
-  Brindamos gestión comercial, logística y envíos para clientes de toda Latinoamérica.
-</p>
+<div class="distribution-intro">
+  <div>
+    <p>
+      <b>EN</b> — LATAMBOOK operates as a regional distributor for academic, professional and scientific publishers.
+      We provide sales, logistics, invoicing and delivery solutions for clients across Latin America, including
+      universities, clinics, educational institutions and specialized bookstores. Our catalogue includes psychology,
+      neuroscience, education, medicine, social sciences, pediatrics and technical fields.
+    </p>
+  </div>
+  <div>
+    <p>
+      <b>ES</b> — LATAMBOOK funciona como distribuidora regional de libros académicos, profesionales y científicos.
+      Brindamos gestión comercial, logística, facturación y envíos para clientes de toda Latinoamérica: universidades,
+      clínicas, instituciones educativas y librerías especializadas. Distribuimos catálogos de psicología, neurociencias,
+      educación, medicina, ciencias sociales, pediatría y áreas técnicas.
+    </p>
+  </div>
+</div>
 
-<!-- Grid de editoriales -->
+<!-- Grid de editoriales en distribución -->
 <div class="grid">
 
-<article class="card">
+  <!-- Manual Moderno -->
+  <article class="card">
+    <img src="img/Manual-Moderno.png" alt="Manual Moderno logo" class="publisher-logo">
     <h3>Manual Moderno</h3>
-    <p class="muted">Medicina · Psicología</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Manual%20Moderno" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Medicine · Psychology</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Manual%20Moderno"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Akadia -->
   <article class="card">
+    <img src="img/AKADIA.webp" alt="Akadia logo" class="publisher-logo">
     <h3>Akadia</h3>
-    <p class="muted">Psicología · Educación</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Akadia" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Psychology · Education</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Akadia"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Neuroaprendizaje Infantil -->
   <article class="card">
+    <img src="img/neuroaprendizaje%20infantil.png" alt="Neuroaprendizaje Infantil logo" class="publisher-logo">
     <h3>Neuroaprendizaje Infantil</h3>
-    <p class="muted">Infancia · Neurodesarrollo</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Neuroaprendizaje" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Childhood · Neurodevelopment</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Neuroaprendizaje%20Infantil"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Amorrortu -->
   <article class="card">
+    <img src="img/amorrortu.jpeg" alt="Amorrortu logo" class="publisher-logo">
     <h3>Amorrortu</h3>
-    <p class="muted">Psicoanálisis · Sociales</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Amorrortu" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Psychoanalysis · Social sciences</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Amorrortu"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Tres Olas -->
   <article class="card">
+    <img src="img/tres%20olas.png" alt="Tres Olas logo" class="publisher-logo">
     <h3>Tres Olas</h3>
-    <p class="muted">Educación · Psicopedagogía</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Tres%20Olas" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Education · Educational psychology</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Tres%20Olas"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Panamericana -->
   <article class="card">
+    <img src="img/panamericana.jpeg" alt="Panamericana logo" class="publisher-logo">
     <h3>Panamericana</h3>
-    <p class="muted">Medicina · Salud</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Panamericana" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Medicine · Health sciences</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Panamericana"
+       class="btn">Request price list</a>
   </article>
-  
-<article class="card">
+
+  <!-- Journal -->
+  <article class="card">
+    <img src="img/journal-logo.png" alt="Journal logo" class="publisher-logo">
     <h3>Journal</h3>
-    <p class="muted">Psicología · Neurociencias</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Journal" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Psychology · Neurosciences</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Journal"
+       class="btn">Request price list</a>
   </article>
-  
+
+  <!-- El Ateneo -->
   <article class="card">
+    <img src="img/el%20ateneo.png" alt="El Ateneo logo" class="publisher-logo">
     <h3>El Ateneo</h3>
-    <p class="muted">General · Literatura</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20El%20Ateneo" class="btn">Solicitar lista de precios</a>
+    <p class="muted">General · Literature</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20El%20Ateneo"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Bonum -->
   <article class="card">
+    <img src="img/bonum.webp" alt="Bonum logo" class="publisher-logo">
     <h3>Bonum</h3>
-    <p class="muted">Educación · Formación docente</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Bonum" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Education · Teacher training</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Bonum"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Siglo XXI -->
   <article class="card">
+    <img src="img/siglo%20xxi%20edit.jpeg" alt="Siglo XXI logo" class="publisher-logo">
     <h3>Siglo XXI</h3>
-    <p class="muted">Ciencias sociales</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Siglo%20XXI" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Social sciences</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Siglo%20XXI"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- La Crujía -->
   <article class="card">
+    <img src="img/la%20crujia.jpeg" alt="La Crujía logo" class="publisher-logo">
     <h3>La Crujía</h3>
-    <p class="muted">Comunicación · Sociales</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20La%20Crujia" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Communication · Social sciences</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20La%20Crujia"
+       class="btn">Request price list</a>
   </article>
 
+  <!-- Fundación Garrahan -->
   <article class="card">
+    <img src="img/fundacion%20garrahan.png" alt="Fundación Garrahan logo" class="publisher-logo">
     <h3>Fundación Garrahan</h3>
-    <p class="muted">Pediatría · Salud infantil</p>
-    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Fundacion%20Garrahan" class="btn">Solicitar lista de precios</a>
+    <p class="muted">Pediatrics · Child health</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Fundacion%20Garrahan"
+       class="btn">Request price list</a>
+  </article>
+
+  <!-- Eureka Digital (Panamericana) -->
+  <article class="card">
+    <img src="img/EUREKA%20DIGITAL.jpg" alt="Eureka Digital logo" class="publisher-logo">
+    <h3>Eureka Digital</h3>
+    <p class="muted">Digital library · Medicine · Health</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Eureka%20Digital"
+       class="btn">Request price list</a>
+  </article>
+
+  <!-- Alfaomega -->
+  <article class="card">
+    <img src="img/alfaomega.png" alt="Alfaomega logo" class="publisher-logo">
+    <h3>Alfaomega</h3>
+    <p class="muted">Technology · Economics</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Alfaomega"
+       class="btn">Request price list</a>
+  </article>
+
+  <!-- Eudeba -->
+  <article class="card">
+    <img src="img/eudeba.jpeg" alt="Eudeba logo" class="publisher-logo">
+    <h3>Eudeba</h3>
+    <p class="muted">Academic · University presses</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Eudeba"
+       class="btn">Request price list</a>
+  </article>
+
+  <!-- Hogrefe -->
+  <article class="card">
+    <img src="img/hogrefe.png" alt="Hogrefe logo" class="publisher-logo">
+    <h3>Hogrefe</h3>
+    <p class="muted">Psychology · Neurodiversity</p>
+    <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Hogrefe"
+       class="btn">Request price list</a>
   </article>
 
 </div>
-
-<style>
-  .btn {
-    display:inline-block;
-    margin-top: 6px;
-    padding: 6px 12px;
-    background:#0f5cc0;
-    color:white !important;
-    border-radius:6px;
-    font-size:14px;
-  }
-  .btn:hover {
-    background:#094089;
-  }
-</style>
-
