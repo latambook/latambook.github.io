@@ -193,8 +193,8 @@
   <div class="wrap">
     <h2>📚 Editorial Services | Distributor for Latin America 🌐</h2>
     <p class="tagline">
-      ✉️ <a href="mailto:ventas@latambook.com">ventas@latambook.com</a> · 
            📍 <b>Buenos Aires · Rosario | Argentina </b>
+    ✉️ <a href="mailto:ventas@latambook.com">ventas@latambook.com</a> · 
     </p>
   </div>
 </header>
@@ -204,18 +204,15 @@
   <div class="two">
     <div>
       <h2>🇺🇸About us</h2>
-      <p><b>LATAMBOOK</b> LATAMBOOK has been publishing print and digital books since 2010. Our editorial work is organized into three imprints:
+      <p><b>LATAMBOOK</b> has been publishing print and digital books since 2010. Our editorial work is organized into three imprints:
 <b>La Mora</b> — focused on poetry and literary works.
-<b>urAmerica</b> — specialized in the human and social sciences.
+<b>SurAmerica</b> — specialized in the human and social sciences.
 <b>Latambook</b>— dedicated to technical, professional and healthcare publications.
-
-We also operate a regional distribution structure, representing a broad catalogue of academic and professional publishers across Latin America. We provide commercial representation, institutional promotion, logistics and supply solutions for universities, bookstores, libraries and organizations throughout the region.
-    </div>
-
+| We also operate a regional <b>distribution structure</b>, representing a broad catalogue of academic and professional publishers across Latin America. We provide commercial representation, institutional promotion, logistics and supply solutions for universities, bookstores, libraries and organizations throughout the region.
     <div>
+    
       <h2>🇦🇷Sobre nosotros</h2>
-      <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de <i>edición</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
-      <p>Desde 2010 brindamos servicios editoriales a través de nuestros sellos: <b>La Mora</b> — orientado a poesía y literatura — y <b>SurAmerica ediciones</b> — especializado en Ciencias Humanas y Sociales.</p>
+      <p><b>LATAMBOOK</b> brinda servicios de edición desde el 2010. Producimos libros en formato papel, digital e impresion bajo demanda, cubriendo todas las etapas del proceso editorial, desde el boceto hasta la gestion de ISBN. Ademas, contamos con una estructura comercial de distribución con red de clientes en toda Latinoamérica. Representamos a los sellos academicos mas prestigiosos de la región, gestionando venta, logística y envios internacionales.
     </div>
   </div>
 
