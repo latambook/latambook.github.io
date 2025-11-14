@@ -324,10 +324,8 @@ Ofrecemos <strong>gestión comercial, logística especializada y envíos interna
 <hr style="border:0; border-top:1px solid #e2e2e2; margin:40px 0 24px;">
 
 <div class="wrap" style="text-align:center; margin-bottom:32px;">
-  <h2 style="margin-bottom:4px;">📚 Sellos en distribución</h2>
-  <p class="muted" style="font-size:15px; margin-top:0;">
-    📚 Publishing Houses in Distribution
-  </p>
+  <h2 style="margin-bottom:4px;">📚 Publishing Houses in Distribution</h2>
+  
 </div>
 
 <!-- Grid de editoriales en distribución -->
