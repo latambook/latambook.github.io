@@ -279,6 +279,18 @@
       <h3>Manual de Etica para corredores inmobiliarios</h3>
       <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
     </article>
+
+    <article class="card">
+      <img src="img/IMG_9369.jpeg" alt="Manual de Etica – portada" loading="lazy">
+      <h3>Manual de Etica para corredores inmobiliarios</h3>
+      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
+    </article>
+
+    <article class="card">
+      <img src="img/IMG_9369.jpeg" alt="Manual de Etica – portada" loading="lazy">
+      <h3>Manual de Etica para corredores inmobiliarios</h3>
+      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
+    </article>
     
   </section>
 
@@ -406,7 +418,7 @@ Ofrecemos <strong>gestión comercial, logística especializada y envíos interna
   <article class="card">
     <img src="img/siglo%20xxi%20edit.jpeg" alt="Siglo XXI logo" class="publisher-logo">
     <h3>Siglo XXI</h3>
-    <p class="muted">Social sciences</p>
+    <p class="muted">Psychology</p>
     <a href="mailto:ventas@latambook.com?subject=Request%20price%20list%20Siglo%20XXI"
        class="btn">Request price list</a>
   </article>
