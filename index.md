@@ -225,6 +225,126 @@
       <h3>Escrituras de la política</h3>
       <p class="muted">Sello: <b>SurAmerica</b> · Autor: Roberto Retamoso · ISBN: 9789872593919</p>
     </article>
+
+     <article class="card">
+      <img src="img/IMG_9373.jpeg" alt="Disculpen – portada" loading="lazy">
+      <h3>Disculpen</h3>
+      <p class="muted">Sello: <b>La Mora</b> · Autor: Juan Cairo · ISBN: 9789872593735</p>
+    </article>
+
+     <article class="card">
+      <img src="img/IMG_9369.jpeg alt="Manual de Etica – portada" loading="lazy">
+      <h3>Manual de Etica para corredores inmobiliarios</h3>
+      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
+    </article>
+    
   </section>
 
 </div>
+<!-- DISTRIBUCIÓN ACADÉMICA -->
+<h2>📦 Academic Book Distribution</h2>
+<p class="muted">Specialized distribution of academic, technical and professional books (print & e-books).</p>
+
+<p>
+  LATAMBOOK operates as a regional distributor for academic, professional and scientific publishers.  
+  We provide sales, logistics, invoicing and delivery solutions for clients across Latin America.
+  Our catalogue includes psychology, neuroscience, education, medicine, social sciences, pediatrics and technical fields.
+</p>
+
+<p>
+  LATAMBOOK funciona como distribuidora regional de libros académicos, profesionales y científicos.  
+  Brindamos gestión comercial, logística y envíos para clientes de toda Latinoamérica.
+</p>
+
+<!-- Grid de editoriales -->
+<div class="grid">
+
+<article class="card">
+    <h3>Manual Moderno</h3>
+    <p class="muted">Medicina · Psicología</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Manual%20Moderno" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Akadia</h3>
+    <p class="muted">Psicología · Educación</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Akadia" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Neuroaprendizaje Infantil</h3>
+    <p class="muted">Infancia · Neurodesarrollo</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Neuroaprendizaje" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Amorrortu</h3>
+    <p class="muted">Psicoanálisis · Sociales</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Amorrortu" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Tres Olas</h3>
+    <p class="muted">Educación · Psicopedagogía</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Tres%20Olas" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Panamericana</h3>
+    <p class="muted">Medicina · Salud</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Panamericana" class="btn">Solicitar lista de precios</a>
+  </article>
+  
+<article class="card">
+    <h3>Journal</h3>
+    <p class="muted">Psicología · Neurociencias</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Journal" class="btn">Solicitar lista de precios</a>
+  </article>
+  
+  <article class="card">
+    <h3>El Ateneo</h3>
+    <p class="muted">General · Literatura</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20El%20Ateneo" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Bonum</h3>
+    <p class="muted">Educación · Formación docente</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Bonum" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Siglo XXI</h3>
+    <p class="muted">Ciencias sociales</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Siglo%20XXI" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>La Crujía</h3>
+    <p class="muted">Comunicación · Sociales</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20La%20Crujia" class="btn">Solicitar lista de precios</a>
+  </article>
+
+  <article class="card">
+    <h3>Fundación Garrahan</h3>
+    <p class="muted">Pediatría · Salud infantil</p>
+    <a href="mailto:ventas@latambook.com?subject=Lista%20de%20precios%20Fundacion%20Garrahan" class="btn">Solicitar lista de precios</a>
+  </article>
+
+</div>
+
+<style>
+  .btn {
+    display:inline-block;
+    margin-top: 6px;
+    padding: 6px 12px;
+    background:#0f5cc0;
+    color:white !important;
+    border-radius:6px;
+    font-size:14px;
+  }
+  .btn:hover {
+    background:#094089;
+  }
+</style>
+
