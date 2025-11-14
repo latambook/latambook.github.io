@@ -1,4 +1,11 @@
-<style>
+<style> <div class="wrap" style="padding-top: 24px; padding-bottom: 8px;">
+  <img src="img/Captura de Pantalla 2025-03-25 a la(s) 04.29.49.png"
+       alt="LatamBook Logo"
+       style="height: 70px;">
+</div>
+  .site-title, .site-name, header h1 {
+  display: none !important;
+}
   :root { --max: 980px; }
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; 
          line-height: 1.55; margin: 0; color:#0a0a0a; }
