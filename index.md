@@ -478,3 +478,50 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   </article>
 
 </div>
+
+<!-- ========================= -->
+<!--   International Fair Representation – Elegant Section -->
+<!-- ========================= -->
+
+<hr style="border:0; border-top:1px solid #e2e2e2; margin:40px 0 32px;">
+
+<section class="fairs-section">
+
+  <div class="fairs-header">
+    <h2>🌍 Representation at International Book Fairs & Events</h2>
+    <p class="muted">Professional presence in Latin American and global publishing events</p>
+  </div>
+
+  <div class="fairs-grid">
+
+    <!-- PHOTO 1 -->
+    <div class="fair-card">
+      <img src="img/fair1.jpeg" alt="International Book Fair – Latambook">
+      <div class="fair-card-content">
+        <h3>Buenos Aires International Book Fair</h3>
+        <p>Argentina – Publisher & Distributor Stand</p>
+      </div>
+    </div>
+
+    <!-- PHOTO 2 -->
+    <div class="fair-card">
+      <img src="img/fair2.jpeg" alt="Editorial Networking Event">
+      <div class="fair-card-content">
+        <h3>Professional Editorial Networking</h3>
+        <p>Meetings with authors, publishers and distributors</p>
+      </div>
+    </div>
+
+    <!-- PHOTO 3 -->
+    <div class="fair-card">
+      <img src="img/fair3.jpeg" alt="Latambook – Book Presentation">
+      <div class="fair-card-content">
+        <h3>Book Presentation & Catalog Showcase</h3>
+        <p>Institutional representation of our imprints</p>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
