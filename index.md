@@ -1,4 +1,45 @@
 <style>
+
+  /* Intro de distribución EN / ES en dos columnas */
+.distribution-intro {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.distribution-intro p {
+  margin: 0;
+}
+
+/* En escritorio: dos columnas y separador vertical */
+@media (min-width: 860px) {
+  .distribution-intro {
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-start;
+  }
+  .distribution-intro > div + div {
+    border-left: 1px solid #e5e7eb;
+    padding-left: 1.5rem;
+  }
+}
+
+/* Botón azul (si no lo tenías ya) */
+.btn {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 6px 12px;
+  background: #0f5cc0;
+  color: #ffffff !important;
+  border-radius: 6px;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.btn:hover {
+  background: #094089;
+}
+
   /* Oculta el título "LATAMBOOK" que pone el theme de GitHub */
   .site-title,
   .site-name,
