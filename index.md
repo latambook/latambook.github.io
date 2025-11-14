@@ -202,14 +202,13 @@
 <div class="wrap">
 
   <div class="two">
-    <div>
+  
       <h2>🇺🇸About us</h2>
       <p><b>LATAMBOOK</b> has been publishing print and digital books since 2010. Our editorial work is organized into three imprints:
 <b>La Mora</b> — focused on poetry and literary works.
 <b>SurAmerica</b> — specialized in the human and social sciences.
 <b>Latambook</b>— dedicated to technical, professional and healthcare publications.
 | We also operate a regional <b>distribution structure</b>, representing a broad catalogue of academic and professional publishers across Latin America. We provide commercial representation, institutional promotion, logistics and supply solutions for universities, bookstores, libraries and organizations throughout the region.
-    <div>
     
       <h2>🇦🇷Sobre nosotros</h2>
       <p><b>LATAMBOOK</b> brinda servicios de edición desde el 2010. Producimos libros en formato papel, digital e impresion bajo demanda, cubriendo todas las etapas del proceso editorial, desde el boceto hasta la gestion de ISBN. Ademas, contamos con una estructura comercial de distribución con red de clientes en toda Latinoamérica. Representamos a los sellos academicos mas prestigiosos de la región, gestionando venta, logística y envios internacionales.
@@ -219,7 +218,7 @@
   <hr class="divider">
 
   <section id="servicios-editoriales" class="services-grid">
-    <div>
+    
       <h2>🏗️Complete editorial process</h2>
       <p class="muted">Professional support through every stage of the publishing process.</p>
       <ul>
