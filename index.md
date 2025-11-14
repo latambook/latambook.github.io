@@ -282,15 +282,15 @@
     </article>
 
     <article class="card">
-      <img src="img/IMG_9369.jpeg" alt="Manual de Etica – portada" loading="lazy">
-      <h3>Manual de Etica para corredores inmobiliarios</h3>
-      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
+      <img src="img/La-linea-de-tu-mano.jpeg" alt="La linea de tu mano – portada" loading="lazy">
+      <h3>La linea de tu mano</h3>
+      <p class="muted">Sello: <b>La Mora</b> · Autor: Maria Vilaltas · ISBN: 9789872593728</p>
     </article>
 
     <article class="card">
-      <img src="img/IMG_9369.jpeg" alt="Manual de Etica – portada" loading="lazy">
-      <h3>Manual de Etica para corredores inmobiliarios</h3>
-      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Lic. Julio Farah · ISBN: 9789872593926</p>
+      <img src="img/Ihistoria-oral.jpeg" alt="Historia oral – portada" loading="lazy">
+      <h3>Historia Oral</h3>
+      <p class="muted">Sello: <b>SurAmerica</b> · Autor: Laura benadiba · ISBN: 9789872593902</p>
     </article>
     
   </section>
@@ -495,11 +495,11 @@ Ofrecemos <strong>👩🏻‍💻gestión comercial, 📦logística especializad
   <div class="fairs-grid">
 
     <!-- PHOTO 1 -->
-    <div class="fair-card">
-      <img src="img/fair1.jpeg" alt="International Book Fair – Latambook">
+    <div class="fil-2024">
+      <img src="img/fil2024.jpg" alt="International Book Fair – Latambook">
       <div class="fair-card-content">
-        <h3>Buenos Aires International Book Fair</h3>
-        <p>Argentina – Publisher & Distributor Stand</p>
+        <h3>Guadalajara International Book Fair</h3>
+        <p>Meeting with Universidad de Guadalajara – Institutional Stand</p>
       </div>
     </div>
 
