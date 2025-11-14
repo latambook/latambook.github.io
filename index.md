@@ -60,17 +60,16 @@
 
   <div class="two">
     <div>
+      <h2>About us(EN)</h2>
+      <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
+      <p> Through our publishing imprints <b>La Mora</b> (literary–poetic, founded in 2010) and <b>SurAmerica</b> (human sciences, founded in 2010)— we produce books in both print and digital formats.</p>
+    </div>
+    <div>
       <h2>Sobre nosotros(ES)</h2>
       <p><b>LATAMBOOK</b> opera como distribuidora editorial con red de clientes en toda Latinoamérica. 
          Gestionamos ventas, logística y representación de sellos locales, y también ofrecemos servicios de 
          <i>edición</i>, diseño, traducción, corrección y tramitación de <b>ISBN / código de barras</b> (registrados en la Cámara Argentina del Libro).</p>
       <p>Desde nuestro sector productivo <b>Editorial La Mora</b> (Rosario, 2010) conectamos autores con sus obras</p>
-    </div>
-
-    <div>
-      <h2>About us(EN)</h2>
-      <p><b>LATAMBOOK</b> is a Latin American book distributor with a regional client network. We manage sales, logistics and publisher representation, and provide editorial services (editing, design, translation, copy-editing; <b>ISBN/barcode</b> issuance registered at the Argentine Book Chamber).</p>
-      <p> Through our publishing imprints <b>La Mora</b> (literary–poetic, founded in 2010) and <b>SurAmerica</b> (human sciences, founded in 2010)— we produce books in both print and digital formats.</p>
     </div>
   </div>  <!-- 👈 Cierre del .two, ESTE ES EL QUE FALTABA -->
 
