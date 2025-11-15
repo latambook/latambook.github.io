@@ -202,51 +202,55 @@
 <div class="wrap">
 
   <div class="two">
-  
+    <div>
       <h2>🇺🇸About us</h2>
       <p><b>LATAMBOOK</b> has been publishing print and digital books since 2010. Our editorial work is organized into three imprints:
-<b>La Mora</b> — focused on poetry and literary works.
-<b>SurAmerica</b> — specialized in the human and social sciences.
-<b>Latambook</b>— dedicated to technical, professional and healthcare publications.
-| We also operate a regional <b>distribution structure</b>, representing a broad catalogue of academic and professional publishers across Latin America. We provide commercial representation, institutional promotion, logistics and supply solutions for universities, bookstores, libraries and organizations throughout the region.
-    </div>
-    <h2>🇦🇷Sobre nosotros</h2>
-      <p><b>LATAMBOOK</b> brinda servicios de edición desde el 2010. Producimos libros en formato papel, digital e impresion bajo demanda, cubriendo todas las etapas del proceso editorial, desde el boceto hasta la gestion de ISBN. Ademas, contamos con una estructura comercial de distribución con red de clientes en toda Latinoamérica. Representamos a los sellos academicos mas prestigiosos de la región, gestionando venta, logística y envios internacionales.
-    </div>
-  </div>
-
-  <hr class="divider">
-
-  <section id="servicios-editoriales" class="services-grid">
-  </div> </div>
-    
-      <h2>🏗️Complete editorial process</h2>
-      <p class="muted">Professional support through every stage of the publishing process.</p>
-      <ul>
-        <li><b>Copy editing</b> — language and consistency review.</li>
-        <li><b>Translation</b> — Spanish ↔ English or other languages depending on the project.</li>
-        <li><b>Graphic design</b> — cover art and visual identity creation.</li>
-        <li><b>Layout and typesetting</b> — interior book design.</li>
-        <li><b>ISBN &amp; barcode management</b> — registered with the Argentine Book Chamber.</li>
-        <li><b>Publishing</b> — print edition, digital version, print on demand.</li>
-        <li><b>Commercialization</b> - representation and distribution</li>
-      </ul>
+      <b>La Mora</b> — focused on poetry and literary works.
+      <b>SurAmerica</b> — specialized in the human and social sciences.
+      <b>Latambook</b>— dedicated to technical, professional and healthcare publications.
+      We also operate a regional <b>distribution structure</b>, representing a broad catalogue of academic and professional publishers across Latin America. We provide commercial representation, institutional promotion, logistics and supply solutions for universities, bookstores, libraries and organizations throughout the region.</p>
     </div>
 
     <div>
-      <h2>👷‍♀️Servicio editorial integral</h2>
-      <p class="muted">Profesionalismo en todas las etapas de producción editorial.</p>
-      <ul>
-        <li><b>Corrección de estilo</b> — revisión lingüística, coherencia y sentido.</li>
-        <li><b>Traducción</b> — español ↔ inglés u otros idiomas.</li>
-        <li><b>Diseño gráfico</b> — diseño de portada e identidad visual.</li>
-        <li><b>Diagramación</b> — maquetación del interior del libro.</li>
-        <li><b>Gestión de ISBN y código de barras</b> — tramitación en la Cámara Argentina del Libro.</li>
-        <li><b>Publicación</b> — impresión, versión digital, impresion bajo demanda</li>
-        <li><b>Comercialización</b> - representación y distribución</li>
-      </ul>
+      <h2>🇦🇷Sobre nosotros</h2>
+      <p><b>LATAMBOOK</b> brinda servicios de edición desde el 2010. Producimos libros en formato papel, digital e impresión bajo demanda, cubriendo todas las etapas del proceso editorial, desde el boceto hasta la gestión de ISBN. Además, contamos con una estructura comercial de distribución con red de clientes en toda Latinoamérica. Representamos a los sellos académicos más prestigiosos de la región, gestionando venta, logística y envíos internacionales.</p>
     </div>
-  </section>
+  </div>
+
+</div>
+  <hr class="divider">
+
+  <section id="servicios-editoriales" class="services-grid">
+
+  <div>
+    <h2>🏗️Complete editorial process</h2>
+    <p class="muted">Professional support through every stage of the publishing process.</p>
+    <ul>
+      <li><b>Copy editing</b> — language and consistency review.</li>
+      <li><b>Translation</b> — Spanish ↔ English or other languages depending on the project.</li>
+      <li><b>Graphic design</b> — cover art and visual identity creation.</li>
+      <li><b>Layout and typesetting</b> — interior book design.</li>
+      <li><b>ISBN &amp; barcode management</b> — registered with the Argentine Book Chamber.</li>
+      <li><b>Publishing</b> — print edition, digital version, print on demand.</li>
+      <li><b>Commercialization</b> – representation and distribution</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2>👷‍♀️Servicio editorial integral</h2>
+    <p class="muted">Profesionalismo en todas las etapas de producción editorial.</p>
+    <ul>
+      <li><b>Corrección de estilo</b> — revisión lingüística, coherencia y sentido.</li>
+      <li><b>Traducción</b> — español ↔ inglés u otros idiomas.</li>
+      <li><b>Diseño gráfico</b> — diseño de portada e identidad visual.</li>
+      <li><b>Diagramación</b> — maquetación del interior del libro.</li>
+      <li><b>Gestión de ISBN y código de barras</b> — tramitación en la Cámara Argentina del Libro.</li>
+      <li><b>Publicación</b> — impresión, versión digital, impresión bajo demanda.</li>
+      <li><b>Comercialización</b> – representación y distribución</li>
+    </ul>
+  </div>
+
+</section>
 
   <h2>📚Editorial Production Samples💡</h2>
 
